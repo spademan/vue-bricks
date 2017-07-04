@@ -162,3 +162,4 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 ---
 
 Released under the [MIT](LICENSE.md) License.
+test change
